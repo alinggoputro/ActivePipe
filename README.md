@@ -1,3 +1,7 @@
+Prepared by: Arya Linggoputro on 25 May 2015 For ActivePipe
+
+The solution build using PHP 
+
 Problem:
 Take the below string and break it out into arrays. The string is made of two ‘arrays’ ssTrend and volTrend. You will notice that the first long number is the same in each array, this should be your array key.
 
